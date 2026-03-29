@@ -1,0 +1,8 @@
+{
+  "name": "lucidia-studio",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  }
+}
